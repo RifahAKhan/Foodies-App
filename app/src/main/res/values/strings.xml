@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">Foodie</string>
+    <string name="apple_pie">This delicious healthy oatmeal recipe is sweet, creamy, and satisfying and will start your day with a nice warm tummy. Best of all, it tastes like a slice of apple pie!</string>
+    <string name="recipe1">
+        EQUIPMENT: medium sauce pan\n\n
+        SERVES:2\n\n
+        INGREDIENTS:\n
+        1. 1 cup old fashioned or steel cut oatmeal\n
+        2. 2 cups almond milk\n
+        3. 1 apple thinly sliced then cut into thirds basically thin bite sized pieces\n
+        4. 2 teaspoons cinnamon\n
+        5. 2 teaspoons maple syrup optional\n
+        6. 1 cup unsweetened apple sauce if you have the little cups each is 1/2 cup\n\n
+        INSTRUCTIONS:\n
+        In a medium sauce pan combine the almond milk, oatmeal, cinnamon and maple syrup, heat on low until most of the milk is absorbed (stir as needed).
+        Once most of the milk is absorbed add in the apple sauce and stir together. If you like your apples soft add them in now too, if you like some crunch wait until you are about to serve to stir in.
+        Once all the apple sauce and milk is absorbed, about 15-20 minutes total, remove from heat and serve.</string>
+    <string name="brown_sugar"> Taking inspiration from Quaker Oats, I created this all natural, low calorie oats for weight loss recipe.
+</string>
+    <string name="recipe2">
+        EQUIPMENT: small sauce pan\n\n
+        SERVES:1\n\n
+        INGREDIENTS:\n
+        1. 1/2 cup old fashioned oatmeal\n
+        2. 1/2 tsp. cinnamon\n
+        3. 1 tsp. maple syrup\n
+        4. 1/2 tsp. dark brown sugar\n\n
+        INSTRUCTIONS:\n
+        1. In a small sauce pan get 1 cup of water boiling, add the oatmeal and cinnamon and reduce to low. Stir once in a while until all the water is absorbed.\n
+        2. Add in the maple syrup and mix together. Move oatmeal to a bowl, sprinkle with brown sugar and serve.</string>
+    <string name="cream">This Quaker Oats copycat recipe is all natural, and a great healthy oatmeal breakfast!
+</string>
+    <string name="recipe3">
+        EQUIPMENT: small pot\n\n
+        SERVES:2\n\n
+        INGREDIENTS:\n
+        1. 1 cup water\n
+        2. 1/2 cup old fashioned oats\n
+        3. 1 teaspoon ground cinnamon- you can also toss a cinnamon stick in w/ the boiling water\n
+        4. 1/2 cup chopped strawberries- fresh or frozen defrosted\n
+        5. 1 teaspoon balsamic vinegar\n
+        6. 2 tablespoons Greek yogurt\n
+        7. 1/2 teaspoon real vanilla extract\n
+        8. 1 teaspoon honey\n\n
+        INSTRUCTIONS:\n
+        1. In a small pot combine water, oatmeal and cinnamon, cover and bring to a boil, reduce the heat to low. While the oatmeal absorbs all the cinnamon scented water get on with the strawberries.\n
+        2. In a small bowl combine strawberries and balsamic vinegar and with the back of a fork smash and mix until you have strawberry mush (very technical term) then add the yogurt, vanilla, honey and mix well.\n
+        3. Once the water and oatmeal are absorbed and add in the strawberry mixture and stir until all combined, let thicken for a minute or so, remove from heat and serve.</string>
+
+    <string name="pulao">Brown Rice Pulao</string>
+    <string name="pilaf">Brown Rice Onion Pilaf</string>
+    <string name="mushroom">Mushroom Brown Rice</string>
+    <string name="risotto">Risotto-e-Tonno</string>
+    <string name="schezwan">Chicken Schezwan Brown Rice</string>
+    <string name="salad">Brown Rice Salad</string>
+    <string name="fried">Fried Brown Rice</string>
+    <string name="wok">Wok Tossed Brown Rice</string>
+    <string name="veggie">Quick Curried Veggie Brown Rice</string>
+    <string name="med">Mediterranean Style Fried Rice</string>
+
+    <string name="ingredients">
+        1. 1 cup old fashioned or steel cut oatmeal\n
+        2. 2 cups almond milk\n
+        3. 1 apple thinly sliced then cut into thirds basically thin bite sized pieces\n
+        4. 2 teaspoons cinnamon\n
+        5. 2 teaspoons maple syrup optional\n
+        6. 1 cup unsweetened apple sauce if you have the little cups each is 1/2 cup\n\n</string>
+    <string name="description">
+        In a medium sauce pan combine the almond milk, oatmeal, cinnamon and maple syrup, heat on low until most of the milk is absorbed (stir as needed).
+        Once most of the milk is absorbed add in the apple sauce and stir together. If you like your apples soft add them in now too, if you like some crunch wait until you are about to serve to stir in.
+        Once all the apple sauce and milk is absorbed, about 15-20 minutes total, remove from heat and serve.</string>
+    <string name="ingredientsTitle">Ingredients:</string>
+    <string name="descriptionTitle">Description:</string>
+</resources>
