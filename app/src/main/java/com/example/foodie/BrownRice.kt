@@ -29,7 +29,7 @@ class BrownRice : AppCompatActivity() {
 
 
     }
-    private fun launchDetailActivity(Details: details){
+    private fun launchDetailActivity(details: details){
         val intent= Intent(this,detailsActivity::class.java)
         intent.putExtra("ingredients",details.ingredients)
         intent.putExtra("description",details.description)

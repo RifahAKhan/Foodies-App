@@ -58,17 +58,214 @@
     <string name="veggie">Quick Curried Veggie Brown Rice</string>
     <string name="med">Mediterranean Style Fried Rice</string>
 
-    <string name="ingredients">
-        1. 1 cup old fashioned or steel cut oatmeal\n
-        2. 2 cups almond milk\n
-        3. 1 apple thinly sliced then cut into thirds basically thin bite sized pieces\n
-        4. 2 teaspoons cinnamon\n
-        5. 2 teaspoons maple syrup optional\n
-        6. 1 cup unsweetened apple sauce if you have the little cups each is 1/2 cup\n\n</string>
-    <string name="description">
-        In a medium sauce pan combine the almond milk, oatmeal, cinnamon and maple syrup, heat on low until most of the milk is absorbed (stir as needed).
-        Once most of the milk is absorbed add in the apple sauce and stir together. If you like your apples soft add them in now too, if you like some crunch wait until you are about to serve to stir in.
-        Once all the apple sauce and milk is absorbed, about 15-20 minutes total, remove from heat and serve.</string>
+    <string name="ingredients1">
+        2 large onion\n
+        2 large tomatoes\n
+        1/2 cup peas\n
+        5-6 cloves garlic\n
+        1/2 cup cauliflower\n
+        1.75 cups brown rice (raw)\n
+        5-6 cups water three times of rice\n
+        2 tsp desi ghee\n
+        1 small bay leaf\n
+        1 big black cardamom optional\n
+        2 tsp red chilli powder\n
+        2 tsp haldi powder\n
+        1 tsp Garm Masala\n
+        2 tsp Jeera\n
+        salt as per taste\n</string>
+    <string name="description1">
+        1. Gather all the veggies and brown rice. Soak brown rice in warm/hot water for about 40 min. Wash vegetables under running water.\n
+        2. Chop veggies as you like it in small or large chunks.\n
+        3. Take pressure cooker and add 2 tsp desi ghee. Add bay leaf, black cardamom. I was short for other spices, you may add cloves, black pepper etc. Once its aromatic, add Jeera. As it splutters, add Chopped garlic. (you may grate it even)\n
+        4. Add onions. Once they are transparent add green chilly and tomatoes.\n
+        5. Add spices like red chilly, haldi and garm masala. Add salt and vegetables like cauliflower, beans, carrots.\n
+        6. Mix well and add peas.. Make sure to remove the rice from water in which they were soaked.\n
+        7. Add water to rice in the ratio 3:1. So , one portion of rice and three portion of water. Add more salt and mix well.\n
+        8. Put the lid on and give a pressure of 2 whistles on full. Simmer for 15 min. dont release the pressure. Let it cool off itself and open 15 min after it cools off.\n
+        9. The Veg Brown Rice Pulao are ready. Serve with your choice of chutney, Papad and dahi!</string>
+
+    <string name="ingredients2">
+        20 ml oil\n
+        1 Tbsp butter\n
+        1 onion, sliced\n
+        1 bay leaf\n
+        1/2 tsp cinnamon powder\n
+        1 pinch sugar\n
+        1 1/2 cup brown basamati rice, washed and soaked\n
+        3- 3 1/2 cups vegetables stock/ chicken stock/ plain water\n
+        Salt, to taste\n
+        Pepper, to taste\n</string>
+    <string name="description2">
+        1. In a deep pan add oil and butter.\n
+        2. Add the sliced onions and saute till translucent.\n
+        3. Add the bay leaf, cinnamon and sugar. Saute till brown and caramelized.\n
+        4. Add the soaked rice, salt and pepper. Saute.\n
+        5. Add the stock.\n
+        6. Cover and cook till done.\n
+        7. Serving suggestion: Serve with garlic balsamic prawns.\n
+        8. Note: Brown rice requires more water for cooking as compared to white rice.\n</string>
+
+    <string name="ingredients3">
+        1 cup brown basmati rice,washed\n
+        9-10 mushrooms,washed and sliced\n
+        1 onion, chopped\n
+        1/2 cup butter (you can reduce the amount if you want to or you can use 2 Tbsp olive oil)\n
+        1 green capsicum\n
+        1 tsp black pepper\n
+        Salt, to taste\n
+        2 cups water\n</string>
+    <string name="description3">
+        1.Wash the brown rice with water.\n
+        2.Cut the mushrooms, onions and capsicum.\n
+        3.In a pan add butter/olive oil and add onions. Saute till pink.\n
+        4.Add mushrooms. Saute till they wilt.\n
+        5.Now add the capsicum. Saute and add the pre-washed brown rice. Saute for 5-7 minutes.\n
+        6.Add salt, pepper and 2 cups water.\n
+        7.Cook for 15 minutes or till the rice are done.\n</string>
+
+    <string name="ingredients4">
+        300 gms arborio rice\n
+        1 litre vegetable stock\n
+        50 gms unsalted butter\n
+        50 gms onions, finely chopped\n
+        10 gms garlic, chopped\n
+        to taste salt\n
+        to taste black pepper\n
+        75 gms parmesan cheese\n</string>
+    <string name="description4">
+        1.In a medium saucepan, melt 2 tablespoons of the butter over medium heat.\n
+        2.Add the onion and garlic and cook for about 5 minutes, stirring with a wooden spoon, until the onion is transparent, for about 5 minutes.\n
+        3.Add the rice and cook, stirring, until it is well coated with the butter and starts to turn translucent, for 2 minutes.\n
+        4.Ladle 1/2 cup of the warm stock into the rice mixture and simmer, stirring occasionally, until the broth is absorbed.\n
+        5.Repeat, adding 1/2 cup of broth at a time, until the rice is cooked through but still firm.\n
+        6.Add the remaining butter and the salt, pepper, and parmesan. Stir to incorporate. Adjust seasoning with more salt to taste.\n
+        7.Serve immediately.\n</string>
+
+    <string name="ingredients5">
+        250 Gram Long-grain brown basmati rice\n
+        1 Carrot (washed and peeled), chopped\n
+        1/4 cup French beans (washed), finely chopped\n
+        1 medium Green capsicum (washed, de-seeded), finely chopped\n
+        3 Spring onions (washed), chopped1 cup Chicken, shredded\n
+        1/2 cup Shrimps (cooked), small2 tbsp Soya sauce\n
+        1 tbsp Celery (washed, ends trimmed), chopped\n
+        1/2 tbsp Chilli sauce1 tbsp Vinegar1 tbsp Worcestershire sauce\n
+        1/2 tbsp Chinese salt (optional)1/4 tsp Salt\n
+        1 Onion, sliced3-5 drops Oil\n
+        1 Garlic, chopped\n
+        1/2 cup Tinned mushrooms-washed, drained and chopped or fresh mushrooms-washed and chopped (optional)\n</string>
+    <string name="description5">
+        1.Put a tsp of oil in a vessel. Fry the onion till transparent.\n
+        2.Add carrots, beans, capsicum, celery, spring onion and mushrooms, if desired.\n
+        3.Cook for a few minutes until they begin to turn brown. Transfer to another vessel.\n
+        4.Now, fry the chicken and prawns.\n
+        5.Pour a little oil in the vessel. Add chopped garlic.\n
+        6.When it turns brown, remove it and keep aside.\n
+        7.Once the oil is flavoured with garlic, put the rice in the same vessel of oil. Fry it for 5 minutes.\n
+        8.Add all the vegetables, chicken and prawns.\n
+        9.Cook the rice in the chicken stock.\n
+        10.When the rice is cooked, add all the sauces.\n
+        11.Increase heat and fry for 5 minutes. Stir and serve hot.\n</string>
+
+    <string name="ingredients6">
+         For the Brown Rice and Vegetable Salad\n\n
+         4 cups cooked and cooled long-grain brown rice\n
+         1 cup shredded carrots\n
+         1 cup diced seedless cucumber\n
+         ½ cup chopped red or yellow onion\n
+         1 cup thinly sliced radishes\n
+         ½ cup thinly sliced celery\n
+         ¼ cup chopped fresh Italian parsley leaves\n
+         2 tablespoons fresh thyme leaves\n\n
+
+         For the Honey-Lemon Dressing:\n\n
+         ⅓ cup extra virgin olive oil\n
+         3 tablespoons lemon juice\n
+         2 tablespoons honey\n
+         1 tablespoon white wine vinegar\n
+         1 tablespoon Dijon mustard\n
+         1 clove finely minced garlic\n
+         Kosher or coarse salt and freshly ground pepper to taste\n</string>
+    <string name="description6">
+        1. For the salad, in a large bowl combine the brown rice, carrots, cucumber, onion, radishes, celery, parsley and thyme.\n
+        2. For the dressing, in a small container combine the olive oil, lemon juice, honey, vinegar, mustard, garlic, salt and pepper.  Pour the dressing over the brown rice salad, toss to combine very well, turn into a serving platter and serve at room temperature.\n</string>
+    <string name="ingredients7">
+         2 cups brown rice\n
+         5 cups water\n
+         1 large onion, chopped\n
+         1 red capsicum, diced\n
+         2 large cloves garlic\n
+         1 ½ cups peas and corn (frozen)\n
+         ½ teaspoon chilli (optional)\n
+         3 tbsp. soy sauce light\n
+         2 tbsp. Ketchup Manis (or hoisin or oyster sauce)\n
+         Cracked pepper\n
+         1 tbsp. olive oil\n</string>
+    <string name="description7">
+          1. Cook rice as per instructions (we used a rice cooker). Once cooked, set aside.\n
+          2. In a wok or large frypan heat the oil and stir fry the onion. After a couple of minutes add the red capsicum and keep stir frying for a few more minutes.\n
+          Now add the crushed garlic and chilli. Make sure the garlic doesn’t burn.\n
+          3. Add the peas and corn and keep stirring.\n
+          4. Now add the rice with both sauces, season with pepper and keep stir frying. If a little dry, add some more sauce or a little water until moist.\n
+          5. Serve as a side or on its own for a lunch.\n</string>
+
+    <string name="ingredients8">
+         Refined Oil - 0.5 teaspoons\n
+         Salt - 1 pinch\n
+         Carrot-regular - 0.25 unit\n
+         Haricot Bean - 2 units\n
+         Spring Onion - 1 unit\n
+         Raw Brown Rice - 0.33 unit\n
+         Pepper - 1 pinch\n</string>
+    <string name="description8">
+          1. Heat Oil in a wok and saute the boiled and chopped Carrots and Beans.\n
+          2. Add boiled Rice and saute. Add Salt and Pepper.\n
+          3. Continue sauteing till rice is hot.\n
+          4. Garnish with Spring Onions.\n
+          5. Serve hot.\n</string>
+
+    <string name="ingredients9">
+         1 onion chopped\n
+         1 Tbs. cooking oil olive or vegetable\n
+         2 1/2 cups cooked brown rice or instant brown rice\n
+         1 lb. your choice of frozen mixed vegetables thawed; extra water drained\n
+         1 lb. frozen peas thawed; extra water drained\n
+         2 Tbs. tomato paste\n
+         1 Tbs. peanut butter or any nut butter you like\n
+         1/2 cup water\n\n
+
+         Seasonings:\n\n
+         1 tsp paprika\n
+         1 tsp cumin\n
+         1 tsp chili powder\n
+         1 tsp garam masala blend\n
+         1 tsp curry powder red or yellow\n
+         1 tsp garlic powder\n</string>
+    <string name="description9">
+          1.  Have 2 1/2 cups instant or cooked brown rice ready.\n
+          2.  Add the chopped onion and oil to a large, nonstick pot or pan.\n
+          3.  Sautee on medium heat just long enough to cook the onion through.\n
+          4.  Reduce the heat to medium-low.\n
+          5.  Add the seasonings.\n
+          6.  Sautee two or three minutes. Reduce the heat if the seasonings start to burn.\n
+          7.  Add all of the remaining ingredients.\n
+          8.  Stir together well, so the seasonings are evenly spread throughout.\n
+          9.  Lid the pot.\n
+          10. Raise the heat to medium.\n
+          11. Heat through for five minutes or so, stirring once.\n</string>
+
+    <string name="ingredients10">
+         1 tablespoon olive oil\n
+         1/4 cup red onion minced\n
+         2 cloves garlic minced\n
+         2 cups brown rice cooked\n
+         2 roma tomatoes diced small\n
+         2 cups baby spinach fresh\n
+         1/2 cup fat-free feta cheese crumbled\n</string>
+    <string name="description10">
+          1. Heat the olive oil in a large skillet on medium heat. Once hot, add the onion and garlic and cook until the onion is translucent. Increase the heat to medium high and add the rice.\n
+          2. Cook the rice for about 5 minutes, or until hot. Stir in tomatoes and spinach and continue to cook, stirring often, until spinach is wilted. Remove from heat and gently fold in the feta cheese. Serve hot.\n</string>
     <string name="ingredientsTitle">Ingredients:</string>
     <string name="descriptionTitle">Description:</string>
 </resources>
