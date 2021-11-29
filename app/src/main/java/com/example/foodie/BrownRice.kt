@@ -7,13 +7,14 @@ import android.view.View
 import androidx.recyclerview.widget.RecyclerView
 import com.example.foodie.adapter.ItemAdapter
 import com.example.foodie.data.DataSource
+import com.example.foodie.model.DishDataSource
 import com.example.foodie.model.details
 
 class BrownRice : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_brown_rice)
-
+        DishDataSource.runBackgroundThread(applicationContext)
         val dataset = DataSource().loaddetails()
         val recyclerView = findViewById<RecyclerView>(R.id.recycler_view)
         val itemAdapter = ItemAdapter(this,dataset)

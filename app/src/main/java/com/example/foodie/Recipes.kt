@@ -24,11 +24,7 @@ class Recipes : AppCompatActivity() {
         startActivity(Intent(this@Recipes,Curry::class.java))
 
     }
-
-    fun chapati(view: View) {
-        startActivity(Intent(this@Recipes,Chapati::class.java))
-
-    }
+    
 
     fun omelette(view: View) {
         startActivity(Intent(this@Recipes,Omlette::class.java))
