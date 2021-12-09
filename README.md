@@ -10,3 +10,11 @@ Foodies is an app for people who are binge eaters who can't control their hunger
 2. A grid view is created to display numerous foods.
 3. The card view is also used to display multiple sub-items within the main foods.
 4. The recycler view is also used to display multiple sub-items within the main foods.
+
+## Concepts learnt:
+1. Implementation of Recycler View
+2. Implementation of Grid Layout with CardView, ImageView and OnClickListener
+3. Creating JSON file
+4. Backgroung Thread
+5. Fetching the data from JSON and JSON parsing
+6. Populating data
