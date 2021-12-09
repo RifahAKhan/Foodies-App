@@ -9,11 +9,12 @@ import android.widget.ImageView
 import android.widget.TextView
 import androidx.recyclerview.widget.RecyclerView
 import com.example.foodie.R
+import com.example.foodie.model.Dish
 import com.example.foodie.model.details
 
 class ItemAdapter(
     private val context: Context,
-    private val dataset: List<details>
+    private val dataset: ArrayList<Dish>
         ) : RecyclerView.Adapter<ItemAdapter.ItemViewHolder>() {
     private lateinit var clickListener: ClickListener
     class ItemViewHolder (private val view: View):RecyclerView.ViewHolder(view){
@@ -28,9 +29,9 @@ class ItemAdapter(
     }
 
     override fun onBindViewHolder(holder: ItemViewHolder, position: Int) {
-        val view = dataset[position]
-        holder.textView.text = context.resources.getString(view.stringResourceId)
-        holder.imageView.setImageResource(view.drawableResourceId)
+        val item = dataset[position]
+        holder.textView.text = item.name
+        holder.imageView.setImageResource(R.drawable.applepie)
         holder.itemView.setOnClickListener {
             clickListener.onItemClick(it, position)
         }
@@ -46,7 +47,7 @@ class ItemAdapter(
         fun onItemClick(view:View, position: Int)
     }
 
-    fun getdish(position:Int): details{
+    fun getdish(position:Int): Dish{
         return dataset[position]
     }
 

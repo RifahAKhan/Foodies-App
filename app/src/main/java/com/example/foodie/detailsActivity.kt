@@ -23,12 +23,12 @@ class detailsActivity : AppCompatActivity() {
         val extras: Bundle? = intent.extras
         if(extras!=null){
             Log.v("ingredients..",""+extras.getString("ingredients", ""))
-            val ingredients = extras.getInt("ingredients", 0)
-            ingredientsTextView.setText(getString(ingredients))
-            val description = extras.getInt("description", 0)
-            descriptionTextView.setText(getString(description))
+            val ingredients = extras.getString("ingredients","")
+            ingredientsTextView.setText(ingredients)
+            val description = extras.getString("description", "")
+            descriptionTextView.setText(description)
             val recipeImage = extras.getInt("image", 0)
-            recipeImageView.setImageDrawable(getDrawable(recipeImage))
+            recipeImageView.setImageResource(R.drawable.applepie)
 
         }
 

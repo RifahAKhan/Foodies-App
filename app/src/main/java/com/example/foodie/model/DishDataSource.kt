@@ -7,20 +7,23 @@ import org.json.JSONArray
 import org.json.JSONException
 import org.json.JSONObject
 import java.io.IOException
+import java.util.concurrent.Callable
 import java.util.concurrent.ExecutorService
 import java.util.concurrent.Executors
+import java.util.concurrent.Future
 
 class DishDataSource {
     companion object {
         val executor: ExecutorService = Executors.newSingleThreadExecutor()
 
-        fun runBackgroundThread(context: Context) {
-            executor.execute{
-                parseData(context.assets)
+        fun runBackgroundThread(context: Context):Future<ArrayList<Dish>> {
+            val callable:Callable<ArrayList<Dish>> = Callable {
+                return@Callable parseData(context.assets)
             }
+            return executor.submit(callable)
         }
 
-        private fun parseData(assetManager: AssetManager) {
+        private fun parseData(assetManager: AssetManager): ArrayList<Dish> {
             var jsonString: String? = null
             val dishList: ArrayList<Dish> = arrayListOf()
             try {
@@ -49,6 +52,7 @@ class DishDataSource {
                 e.stackTrace
                 Log.v("Catch block",""+e.message)
             }
+            return dishList
 
         }
 

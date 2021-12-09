@@ -7,6 +7,7 @@ import android.view.View
 import androidx.recyclerview.widget.RecyclerView
 import com.example.foodie.adapter.ItemAdapter
 import com.example.foodie.data.DataSource
+import com.example.foodie.model.Dish
 import com.example.foodie.model.DishDataSource
 import com.example.foodie.model.details
 
@@ -14,8 +15,7 @@ class BrownRice : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_brown_rice)
-        DishDataSource.runBackgroundThread(applicationContext)
-        val dataset = DataSource().loaddetails()
+        val dataset = DishDataSource.runBackgroundThread(applicationContext).get()
         val recyclerView = findViewById<RecyclerView>(R.id.recycler_view)
         val itemAdapter = ItemAdapter(this,dataset)
         recyclerView.adapter = itemAdapter
@@ -30,11 +30,11 @@ class BrownRice : AppCompatActivity() {
 
 
     }
-    private fun launchDetailActivity(details: details){
+    private fun launchDetailActivity(dish: Dish){
         val intent= Intent(this,detailsActivity::class.java)
-        intent.putExtra("ingredients",details.ingredients)
-        intent.putExtra("description",details.description)
-        intent.putExtra("image",details.image)
+        intent.putExtra("ingredients",dish.ingredients)
+        intent.putExtra("description",dish.description)
+        intent.putExtra("image",dish.image)
         startActivity(intent)
     }
 }
